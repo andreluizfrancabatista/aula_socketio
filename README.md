@@ -42,7 +42,7 @@ Bem-vindo ao repositório da aula prática sobre `Socket.IO` utilizando `Node.js
 
 3. **Inicie o servidor:**
    ```bash
-   node server.js
+   npm start
    ```
 
 4. **Acesse a aplicação:**
