@@ -1,4 +1,3 @@
-```markdown
 # Aula de Introdução ao Socket.IO com Node.js e Express 🚀
 
 Bem-vindo ao repositório da aula prática sobre `Socket.IO` utilizando `Node.js` e `Express`. Aqui você aprenderá os conceitos básicos de comunicação em tempo real para criar aplicações dinâmicas e interativas.
@@ -96,4 +95,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 💡 **Divirta-se aprendendo e criando aplicações incríveis em tempo real!**
-```
